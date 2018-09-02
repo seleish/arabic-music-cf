@@ -1,0 +1,23 @@
+[
+    {
+        "_class": "org.cloudfoundry.samples.music.domain.Album",
+        "artist": "Soma",
+        "title": "EntaOmry",
+        "releaseYear": "1956",
+        "genre": "Rock"
+    },
+    {
+        "_class": "org.cloudfoundry.samples.music.domain.Album",
+        "artist": "Halim",
+        "title": "Sawah",
+        "releaseYear": "1966",
+        "genre": "Jazz"
+    },
+    {
+        "_class": "org.cloudfoundry.samples.music.domain.Album",
+        "artist": "Shadia",
+        "title": "Asmarany",
+        "releaseYear": "1971",
+        "genre": "Pop"
+    }
+]

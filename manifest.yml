@@ -1,0 +1,7 @@
+---
+applications:
+- name: arabic-music
+  memory: 1G
+  random-route: true
+  path: build/libs/HelloCloudFoundry-1.0.jar
+
